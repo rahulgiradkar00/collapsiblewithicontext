@@ -1,0 +1,2 @@
+com/rahul/demo/app/BuildConfig.java
+ com.rahul.demo.app.BuildConfig
